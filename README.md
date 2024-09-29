@@ -2,7 +2,7 @@
 This project provides a Django-based API that processes customer reviews in CSV/XLSX formats and performs sentiment analysis using the Groq API Sentiment Analysis API. The API returns a structured JSON response with positive, negative, and neutral scores.
 
 ## Features
-Accepts both CSV and XLSX files containing customer reviews.
+Accepts both CSV and XLSX files containing customer reviews
 
 Integrates with Groq API sentiment analysis model for text sentiment analysis.
 
