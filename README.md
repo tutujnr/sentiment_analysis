@@ -43,12 +43,11 @@ cd sentiment_analysis
 
 pip install -r requirements.txt
 
-Add your Groq API key to the project:
+Add your Groq API key to the project
 
 Open views.py and replace the placeholder YOUR_GROQ_API_KEY with your actual API key.
 
 ## Usage
-Running the Development Server
 
 Run the Django development server:
 
