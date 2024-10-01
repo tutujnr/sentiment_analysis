@@ -33,7 +33,7 @@ def sentiment_analysis(request):
 
 def perform_sentiment_analysis(reviews):
     api_url = "https://api.groq.com/sentiment"
-    headers = {"Authorization": "Bearer Your_API_key"} #replace with actual key
+    headers = {"Authorization": "Bearer Your_API_key"} #replace with your actual api key
 
     positive_score, negative_score, neutral_score = 0, 0, 0
 
